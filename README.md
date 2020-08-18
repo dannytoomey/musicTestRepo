@@ -6,18 +6,25 @@ test for using github for music
 1. Open terminal
    - This probably looks intimidating (i was scared of it at first) but it uses a series of commands called bash commands. They're repetitive and easy to get the hang of once you use it a couple times
    - Use the 'cd' command to navigate to a folder
-   - 'cd' means 'change directory'. folders in comptuers are known as directories, so this really just means 'change folders'. For example, if you have filepath that goes Documents -> Music -> Test the command to get there would be 'cd Documents/Music/Test/'
+   - 'cd' means 'change directory'. folders in comptuers are known as directories, so this really just means 'change folders'. For example, if you have filepath that goes Documents -> Music -> Test the command to get there would be 
+   ```
+   cd Documents/Music/Test/
+   ```
    - Create an empty folder and navigate to it using the cd command
 
 2. Clone this repository
-   - Once you're the empty folder you want to use, type 'git clone https://github.com/dannytoomey/musicTestRepo.git' (the URL for this repository)
+   - Once you're the empty folder you want to use, type 
+   ```
+   git clone https://github.com/dannytoomey/musicTestRepo.git'
+   ```
+   (the URL for this repository)
    - You'll a folder get copied into your empty folder. Type 'cd musicTestRepo/' to navigate into it
-   *Protip: if you start typing 'music' and press tab, the computer will autocomplete the rest*
+   -*Protip: if you start typing 'music' and press tab, the computer will autocomplete the rest*
   
 3. Open the file
    - Open finder and open the folder for this repository ('musicTestRepo'). You should see a garageband file. Open it
    - Add/change whatever you want!
-   *Protip: for large projects, save a copy of the file outside of the folder on your computer. if anything happens to the file, you'll have a backup.*
+   -*Protip: for large projects, save a copy of the file outside of the folder on your computer. if anything happens to the file, you'll have a backup.*
   
 4. Push your changes
    - 'push' is git command that means you're going to put the file back in the repository. 
