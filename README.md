@@ -3,9 +3,8 @@ test for using github for music
 
 HOW TO USE GITHUB 
 
--- open terminal
-  |-- this probably looks intimidating (i was scared of it at first) but it uses a series of commands called bash commands. 
-      they're repetitive and easy to get the hang of once you use it a couple times
+1. Open terminal
+  - This probably looks intimidating (i was scared of it at first) but it uses a series of commands called bash commands. They're repetitive and easy to get the hang of once you use it a couple times
 -- use the 'cd' command to navigate to a folder
   |-- 'cd' means 'change directory'. folders in comptuers are known as directories, so this really just means 'change folders'
   |-- so if you have filepath that goes Documents -> Music -> Test the command to get there would be 'cd Documents/Music/Test/'
