@@ -1,7 +1,7 @@
 # musicTestRepo
 test for using github for music 
 
-HOW TO USE GITHUB
+HOW TO USE GITHUB 
 
 -- open terminal
   |-- this probably looks intimidating (i was scared of it at first) but it uses a series of commands called bash commands. 
